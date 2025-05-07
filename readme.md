@@ -1,4 +1,4 @@
-# DOM Project - CHessboard
+# DOM Project - Chessboard
 This repository contains Javascript DOM Project 3 with some basic examples. In this javascript dom application, the application is dynamic element creation.
 
 ## Preview
